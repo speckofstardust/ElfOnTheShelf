@@ -1,7 +1,8 @@
 # python
 .venv
-ElfOnTheShelf/ElfOnTheShelf/__pycache__
+**/__pycache__/
 
 # other
 .idea
 .DS_Store
+
